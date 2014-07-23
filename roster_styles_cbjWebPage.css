@@ -1,0 +1,29 @@
+body {
+  background-image: url(7.21.14_images/cbjwallpaper.jpg);
+  background-size: 1900;
+  background-color: black;
+  background-attachment: fixed;
+  margin-bottom:1500px;
+}
+
+div {
+  display:block;
+}
+table {
+  position:fixed;
+  margin-left:20%;
+  margin-top:20px;
+}
+
+.rosterImages {
+  display:block;
+  display: block;
+  float: right;
+  clear: right;
+  width: 300px;
+}
+.end {
+  position: fixed;
+  bottom: 10px;
+  left: 45%;
+}
